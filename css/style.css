@@ -10733,8 +10733,8 @@ h1, h2, h3, h4, h5,
 }
 
 .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored a {
-  border: 1px solid #a0f669;
-  background: #a0f669 !important;
+  border: 1px solid #5cdb95;
+  background: #5cdb95 !important;
 }
 
 .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active {
@@ -11144,26 +11144,26 @@ h1, h2, h3, h4, h5,
 }
 
 .btn.btn-secondary {
-  background: #a0f669 !important;
-  border: 1px solid #a0f669 !important;
+  background: #5cdb95 !important;
+  border: 1px solid #5cdb95 !important;
   color: #fff !important;
 }
 
 .btn.btn-secondary:hover {
-  border: 1px solid #a0f669 !important;
+  border: 1px solid #5cdb95 !important;
   background: transparent !important;
-  color: #a0f669 !important;
+  color: #5cdb95 !important;
 }
 
 .btn.btn-secondary.btn-outline-primary {
-  border: 1px solid #a0f669;
+  border: 1px solid #5cdb95;
   background: transparent;
-  color: #a0f669;
+  color: #5cdb95;
 }
 
 .btn.btn-secondary.btn-outline-primary:hover {
   border: 1px solid transparent;
-  background: #a0f669;
+  background: #5cdb95;
   color: #fff;
 }
 
@@ -11577,7 +11577,7 @@ h1, h2, h3, h4, h5,
 }
 
 .ftco-hireme h2 span {
-  color: #a0f669;
+  color: #5cdb95;
 }
 
 .ftco-hireme p {
@@ -12183,7 +12183,7 @@ textarea.form-control {
 }
 
 .block-27 ul li a, .block-27 ul li span {
-  color: #a0f669;
+  color: #5cdb95;
   text-align: center;
   display: inline-block;
   width: 40px;
@@ -12194,7 +12194,7 @@ textarea.form-control {
 }
 
 .block-27 ul li.active a, .block-27 ul li.active span {
-  background: #a0f669;
+  background: #5cdb95;
   color: #fff;
   border: 1px solid transparent;
 }
